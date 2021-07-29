@@ -116,4 +116,5 @@ Feedstock Maintainers
 =====================
 
 * [@fatihkurtoglu](https://github.com/fatihkurtoglu/)
+* [@shaun-scale](https://github.com/shaun-scale/)
 
