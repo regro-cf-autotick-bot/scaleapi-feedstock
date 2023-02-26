@@ -1,11 +1,11 @@
-About scaleapi
-==============
+About scaleapi-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/scaleapi-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/scaleapi/scaleapi-python-client
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/scaleapi-feedstock/blob/main/LICENSE.txt)
 
 Summary: The official Python client library for Scale AI, the Data Platform for AI
 
