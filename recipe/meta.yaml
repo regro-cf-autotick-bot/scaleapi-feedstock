@@ -1,5 +1,5 @@
 {% set name = "scaleapi" %}
-{% set version = "2.15.14" %}
+{% set version = "2.16.0" %}
 
 
 package:
@@ -7,8 +7,8 @@ package:
   version: {{ version }}
 
 source:
-  url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/scaleapi-{{ version }}.tar.gz
-  sha256: 9fa6618bf78fb2429e6166d6e01c0b98e6e8bbb3d405451a977bc648c65b2588
+  url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/scaleapi-{{ version }}.tar.gz
+  sha256: cfd6ac6ad07875f91c91790b895a2d5acb497568cd17ae999bd6583b85be813a
 
 build:
   number: 0
